@@ -7,9 +7,6 @@ not the code. It runs on Macs with Apple silicon and macOS 13 or later.
 brew install --cask finding-meaning/tap/idk
 ```
 
-Give the full name, as above. It tells Homebrew to trust this one cask, so you don't need
-`brew tap` or `brew trust` first.
-
 When idk first opens, it asks you to accept its [terms](https://idk-ide.com/#terms) and
 installs its skill for your coding agents at `~/.agents/skills/idk`. If a different skill is
 already there, idk asks before moving it to the Trash, and quits without changing anything if
