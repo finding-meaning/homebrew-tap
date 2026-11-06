@@ -1,7 +1,14 @@
 # idk's Homebrew tap
 
 [idk](https://idk-ide.com/) shows what your coding agent wrote as walkthroughs of the logic,
-not the code. It runs on Macs with Apple silicon and macOS 13 or later.
+not the code.
+
+You'll need:
+
+- a Mac with Apple silicon and macOS 13 or later
+- Claude Code, Codex or OpenCode, installed and signed in. With OpenCode, reviews and idk's
+  other background calls still need Claude Code or Codex.
+- git
 
 ```sh
 brew install --cask finding-meaning/tap/idk
