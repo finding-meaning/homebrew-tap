@@ -1,8 +1,6 @@
 # idk's Homebrew tap
 
-[idk](https://idk-ide.com/) shows what your coding agent wrote as walkthroughs of the logic,
-not the code.
-
+[idk](https://idk-ide.com/) is an IDE for the age of agentic coding. A medium for coding using logic instead of text.
 You'll need:
 
 - a Mac with Apple silicon and macOS 13 or later
