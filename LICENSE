@@ -1,0 +1,9 @@
+Copyright (c) 2026 Amos Shlomovich. All rights reserved.
+
+This repository holds the Homebrew cask for idk and its README. You may use it with
+Homebrew to install, upgrade and uninstall idk. You may not otherwise copy, modify or
+redistribute its files. GitHub's terms let anyone view and fork a public repository on
+GitHub; this grants nothing beyond that.
+
+idk itself is not in this repository. It is downloaded from idk-ide.com under its own
+terms: https://idk-ide.com/#terms
