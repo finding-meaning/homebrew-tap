@@ -4,8 +4,8 @@
 You'll need:
 
 - a Mac with Apple silicon and macOS 13 or later
-- Claude Code, Codex or OpenCode, installed and signed in. With OpenCode, reviews and idk's
-  other background calls still need Claude Code or Codex.
+- Claude Code or Codex, installed and signed in. OpenCode works too, but only alongside one
+  of them.
 - git
 
 ```sh
