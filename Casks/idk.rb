@@ -1,9 +1,10 @@
-# Written by idk's release from v0.2.0's release.json. A change made here is replaced by the next one.
+# Written by idk's release from v0.2.1's release.json. A change made here is replaced by the next one.
 cask "idk" do
-  version "0.2.0"
-  sha256 "f31c38e487ac3c63418db67161cc874a96da751382f512c3b887b2fd2ee819e8"
+  version "0.2.1"
+  sha256 "1e7591cec9f10d9a48a27be9b6efd1cab4939029002d4c1031f997244049a400"
 
-  url "https://idk-ide.com/releases/v#{version}/idk-#{version}-arm64.dmg"
+  url "https://github.com/finding-meaning/idk-releases/releases/download/v#{version}/idk-#{version}-arm64.dmg",
+      verified: "github.com/finding-meaning/idk-releases/"
   name "idk"
   desc "IDE that shows the logic of what your coding agent wrote, not the code"
   homepage "https://idk-ide.com/"
