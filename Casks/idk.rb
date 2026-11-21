@@ -1,7 +1,7 @@
-# Written by idk's release from v0.4.0's release.json. A change made here is replaced by the next one.
+# Written by idk's release from v0.4.1's release.json. A change made here is replaced by the next one.
 cask "idk" do
-  version "0.4.0"
-  sha256 "43703a1643c269e09e864a01c7cb8bb32315fe3ad2e4e5a73ae2563a348aa155"
+  version "0.4.1"
+  sha256 "0186e3e7332af5386dca1147c9cd0637afe5ca831fdda3930087b85e07271bbd"
 
   url "https://github.com/finding-meaning/idk-releases/releases/download/v#{version}/idk-#{version}-arm64.dmg",
       verified: "github.com/finding-meaning/idk-releases/"
